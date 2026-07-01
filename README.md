@@ -1,2 +1,2 @@
 # generative_ai_training_practice
-this repo details all projects which i will learn during the complete geberative cource by prakash sir
+This repo details all projects that I will learn during the complete generative course by Prakash Sir
